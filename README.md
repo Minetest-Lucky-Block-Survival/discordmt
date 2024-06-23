@@ -49,7 +49,7 @@ discord.text_color = #a7a7a7
 ## Frequently Asked Questions
 
 **Q: I just want a normal relay. Can I disable logins?**
-A: Yep! Just set `allow_logins = false` in `relay.conf`.
+A: Yep! Just set `allow_logins = false` in `relay.conf`....s
 
 **Q: Do I need to re-login after a server restart, like with the IRC mod?**
 A: Nope, logins persist as long as the relay is up.
