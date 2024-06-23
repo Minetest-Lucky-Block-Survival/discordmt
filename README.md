@@ -55,7 +55,7 @@ A: Yep! Just set `allow_logins = false` in `relay.conf`.
 A: Nope, logins persist as long as the relay is up.
 
 **Q: I'm getting an HTTP error - it says the server can't be found?**
-A: Make sure the relay is running and that you've configured the correct port in both `minetest.conf` and `relay.conf`.
+A: Make sure the relay is running and that you've configured the correct port in both `minetest.conf` and `relay.conf`..
 
 
 
